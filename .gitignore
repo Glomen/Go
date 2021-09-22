@@ -1,0 +1,5 @@
+pkg/mod/github.com/go-delve/delve@v1.7.2-0.20210916101901-ab38d71147dd/cmd/dlv/dlv_test.go
+pkg/mod/github.com/go-delve/delve@v1.7.2-0.20210916101901-ab38d71147dd/cmd/dlv/main.go
+pkg/mod/github.com/go-delve/delve@v1.7.2-0.20210916101901-ab38d71147dd/cmd/dlv/tools.go
+pkg/mod/github.com/go-delve/delve@v1.7.2-0.20210916101901-ab38d71147dd/cmd/dlv/cmds/cmds_test.go
+pkg/mod/github.com/go-delve/delve@v1.7.2-0.20210916101901-ab38d71147dd/cmd/dlv/cmds/commands.go
